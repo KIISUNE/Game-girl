@@ -4,7 +4,7 @@
 
 Projeto construído do evento Next Level Week da Rocketseat
 
-[Clique aqui para acessar](https://kiisune.github.io/NLW-KIITSUNE/)
+[Clique aqui para acessar](https://kiisune.github.io/KIITSUNE/)
 
 # tecnologias
 
