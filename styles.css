@@ -9,11 +9,11 @@ ul {
 }
 
 body{
-    background-image: url(./assets/bg.jpg);
+    background-image: url(./assets/bit.gif);
     background-position: top center;
     background-size: 100% auto;
     background-repeat: no-repeat;
-    background-color: #121214;
+    background-color: #2e173a;
 }
 
 body * {
@@ -47,6 +47,10 @@ header div img {
     width: 100%;
     border-radius: 50%;
 }
+
+/*main * {
+    border: 1px solid red;
+}*/
 
 main{
     max-width: 580px;
@@ -100,6 +104,11 @@ section ul li:hover {
     border-radius: 8px;
 }
 
+.movie-list img {
+    width: 90px;
+    border-radius: 8px;
+}
+
 .channel-list img {
     width: 70px;
     border-radius: 50px;
@@ -126,6 +135,10 @@ main section:nth-child(2){
 }
 
 main section:nth-child(3){
+    animation-delay: .6s;
+}
+
+main section:nth-child(4){
     animation-delay: .8s;
 }
 
